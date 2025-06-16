@@ -1,0 +1,156 @@
+!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Only On Netflix | Netflix Clone Site</title>
+    <link rel="stylesheet" href="onlyonnetflix.css">
+</head>
+
+<body>
+    <!-- navbar -->
+    <nav>
+        <div class="logo">
+            <img src="WhatsApp_Image_2025-06-09_at_11.14.02_AM-removebg-preview.png" alt="">
+        </div>
+        <div class="details">
+            <h6>UNLIMITEDTVSHOWS&MOVIES</h6>
+            <button class="joinnow">Joinnow</button>
+            <button class="signin">SignIn</button>
+        </div>
+    </nav>
+    <!-- heading -->
+    <div class="container">
+        <h1>Only on Netflix</h1>
+        <p>Netflix is the home of amazing original programming that you can’t <br>
+            find anywhere else. Movies, TV shows, specials and more, all tailored<br>
+            specifically to you.</p>
+    </div>
+    <!-- your next watch -->
+    <h4 class="title">your next watch</h4>
+    <div class="posters">
+        <div class="poster-data">
+            <a href="Ginny&Georgia.html"><img src="https://occ-0-6216-3663.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW8Xgd0EUE-oXACf6M5MemZgzM3RWLXmRb4kQYsX2-Tq6YHqQQh0-1dT9KwYKwJyrAod3LR0Q00L987brQ5hJHeHZCZCeFk9rEHeHZ4kX88bYaCfQ5U_QR66YVB2y2LQVAe5wlFYBu7b61uxl397qysxB8oB52yyeyMF_JN5b4H1shEYTdBwyk2-6EAgcomCZOxlWPIwP40Y6vPzZj0BGRg52kSDyQ_bXDw2ujxNh9LJIc2I-Ie5R-kfNq5RxQ.jpg?r=c0a"
+                alt="" class="poster">
+            <h6>Ginny & Georgia</h6>
+        </div>
+        </a>
+        <div class="poster-data">
+            <img src="https://occ-0-6216-3663.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR_iZiIBOQRYPO_Au3JsvZtNtwz_LfAw-Q0JI3N8B7_XaLG5KHbYG8PKVTwHlEKRQ5QMKqQB0Bc69h5TSuGnfSsio9RB-UV_BD6ft5Tl8sUDtjndaaWng3LRqpumEr88269RvMkAbwoeOFI-sIESh5WoIZXO0Vx6Z8ieAicKZXr1e1eQJdiQ4R3Q2BA7UgcCnDb6wIHR9T6sI0LkCqZfjahNjLLx5et8NnYh-tcIeMnGho3UIIjzhvuGTwdoyrQ9o-6Kmf_q8P2KCNUo-mNI_sBR457efl1tFC__NLQk_MDuJQb7VJ7i6WbUSsUpgsnNWazsya4QP4uaZ5-ZmPKJ5UKcpw.jpg?r=ea2"
+                alt="" class="poster">
+            <h6>Squid Game</h6>
+        </div>
+        <div class="poster-data">
+            <img src="https://occ-0-6216-3663.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUns1y6TBPPKUXWi7y0UHm6zSJAhcXEsjCJq9TUU7nGSGMzuROqHRqcv1XC_llDPWGA5kGnlooq6_RnbudXcRKLbWtmNeq-QAgxNiL4tw0P-jEFC01DkFBRwNkEoZrzkyo-O9-JYiqChNoaPvsA5fF3eLrTWacR7Lr003632PWPkw2JV5HcRHIrnm7Rj0EY.jpg?r=abf"
+                alt="" class="poster">
+            <h6>When Life Gives You Tangerines<h6>
+        </div>
+        <div class="poster-data">
+            <img src="https://occ-0-6216-3663.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc_QuOdHzJa9WwBiBlfEvpcFRKq9TAIgdJv0KoSilQZ8JMEsdCdQS4VGD6gwVg2CYCYNhTJIald5uVsXbMf-3QaF1k1fnFRbovQr6ddWUtkSOUzil_dtlD1wOIeD_pSI6pAx.jpg?r=c68"
+                alt="" class="poster">
+            <h6>Stranger Things</h6>
+        </div>
+        <div class="poster-data">
+            <img src="https://occ-0-6216-3663.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUmLgKmFrl2Tq5jDmIBIdp-L6_fRFsTE7KslWARHa4Yb8f8q32MOBiACOoYAGFn4k8Pc_1P7QlN-F41Btkx4q8bp2gg0yA4kCWxamkIcyRVtyIoln6PDWQVi1_IAZHe4PALj.jpg?r=326"
+                alt="" class="poster">
+            <h6>Money Heist</h6>
+        </div>
+    </div>
+    <h4 class="title">New on Netflix</h4>
+    <div class="posters">
+        <div class="poster-data">
+            <img src="https://occ-0-6216-3663.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW8Xgd0EUE-oXACf6M5MemZgzM3RWLXmRb4kQYsX2-Tq6YHqQQh0-1dT9KwYKwJyrAod3LR0Q00L987brQ5hJHeHZCZCeFk9rEHeHZ4kX88bYaCfQ5U_QR66YVB2y2LQVAe5wlFYBu7b61uxl397qysxB8oB52yyeyMF_JN5b4H1shEYTdBwyk2-6EAgcomCZOxlWPIwP40Y6vPzZj0BGRg52kSDyQ_bXDw2ujxNh9LJIc2I-Ie5R-kfNq5RxQ.jpg?r=c0a"
+                alt="" class="poster">
+            <h6>Ginny & Georgia</h6>
+        </div>
+        <div class="poster-data">
+            <img src="https://occ-0-6216-3663.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQz4FMHltDZglKdaXp-7F4TvYaj4SJAk8PkkkJ2ZKM0CpNFU3ytf7J-K1XNPEewlL-OmRj-1zDt_98IBVHuvyzlxBTeo6sS225bIRzey8eNPii1SR1wnkmIuFhp7R9mpZTieK11vfPcBtAuFAElG4qDSSVPwLmpzzwE9DhrU98mnjIY06-nn0e3qOeKs5vo.jpg?r=3c4"
+                alt="" class="poster">
+            <h6>Mercy for None</h6>
+        </div>
+        <div class="poster-data">
+            <img src="https://occ-0-6216-3663.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUR0MQ34GFMW794tRv3XEHtiP1gBPsAoIVmG_9b2Y3njZJMF_MnMfW7bacZKD5UrwwUav1SjkslgPdYlc_lPvUKh8_TAxWsRi2-3_Z5IufkUSADey3qR5PcsEfvIdY2vUaCvd5O36Anb3veVvz8aF6t_Qixfc8rTtWAJbrse3vLbILffDUDSpY0b24r5444.jpg?r=534"
+                alt="" class="poster">
+            <h6>K.O.<h6>
+        </div>
+        <div class="poster-data">
+            <img src="https://occ-0-6216-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfUXVIWsrk0l5jA13A2nbgpxsNkItiLgoWumGxP1wwsTx0u9dR66cIGi6rSHTjGTG2hHMtfRCJIlsG8XhFS7vuRgGgba3EF3q1PWIqzADPaPaPSO6-NDQ0m9coh5hnMM84omzzFi_iyN5NpKmiTe38Na1b0ZGwRvAL_snKO-qejP8E1vGwOV_mm1Cmqzl4F6K04.jpg?r=c14"
+                alt="" class="poster">
+            <h6>Criminal Code</h6>
+        </div>
+        <div class="poster-data">
+            <img src="https://occ-0-6216-3663.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT_UtSgiV793ElNmmpxlNEFCh1MfqrSAcsudYJGb0mfnvRvTJdOMDb2VhFwnJDgLK-xiTI2d9b3o-TMmTfaUL8MP8fakcEzgCvJJJ14RyoBj_a-TzFFxEHAVQcAWEJtZ6RrGaZXYq9hIwc_soMUxc_ZJLi-m-ssm4FQ1HvatTBaM1CADwweu_lrniXLWv5P7B4-wDw.jpg?r=986"
+                alt="" class="poster">
+            <h6>The Creater Cases</h6>
+        </div>
+    </div>
+    <h4 class="title">Bollywood Movie</h4>
+    <div class="posters">
+        <div class="poster-data">
+            <img src="https://occ-0-6216-3663.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWeoe5MRywgu-Q3j0RcnNpv8Yra1fz0IRuS1hUIvLjnM7DtZRaYiHtCLv84fn4urQxIXtSvcMG0RumGKYZ6AJQOHDCS4aQyVe_XHqsPsMX3GywA_ZvJ9AeK1c49d21H-qZ8p.jpg?r=5b0"
+                alt="" class="poster">
+            <h6>Dhoom Dhaam</h6>
+        </div>
+        <div class="poster-data">
+            <img src="https://occ-0-6216-3663.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT_-XjpmZ-8n1cjK4NKNm1KRazY0_g8M6K-dx2lXCylcCOhr2pQdlnN7qewAKCpO4y0J70KAR_egu7gWaUIe8yXTjY8yHk96rKA-dbVg150oJEGU4JLejj82TmB2Pzo3wO5k.jpg?r=b01"
+                alt="" class="poster">
+            <h6>Do Patti</h6>
+        </div>
+        <div class="poster-data">
+            <img src="https://occ-0-6216-3663.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTlIPFdd7iXIJk0HskTH9mSfo1iJjwsNlK464WdN4lCEfFTGdQhT_iy96feEO_3B90-ZKxtcbJCXVMXA5BC6nIuHlRzujIt2GYbF3r57ZGbAbU8CGMfog1SKi3DpC1yYCvJO.jpg?r=878"
+                alt="" class="poster">
+            <h6>Sector 36<h6>
+        </div>
+        <div class="poster-data">
+            <img src="https://occ-0-6216-3663.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfu3ykRHWj8c7ZoM-v0xLm0wy_SGR6pJTBNElWdy22U0hwHolVHHPBi2NPt8eBsq-cbKgO-K3H4nbliT5I60kMTkVbQrX4nDRg8cLQEoQHsjTtgsPLCntcBcAjG_hQtK3JN-.jpg?r=e97"
+                alt="" class="poster">
+            <h6>Jewel Thief-The Heist Begins</h6>
+        </div>
+        <div class="poster-data">
+            <img src="https://occ-0-6216-3663.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa04ZxjLCSuOTfhqAgvq1IiOJgOSCMDerqcO0fN2O1CoFbA7QZvaGNdfHjhAaWcDdrPuQEY9q_BpcC2NXvM_sQ2uxzGgbdyzvEFU873attvdY_Tld6ZAplMH6CAucjNNCiow.jpg?r=dc3"
+                alt="" class="poster">
+            <h6>Maharaj</h6>
+        </div>
+    </div>
+    <!-- container-2 -->
+    <div class="container-2">
+        <h1>There’s even more to watch.</h1>
+        <p>Netflix has an extensive library of feature films, documentaries, TV <br>
+            shows, anime, award-winning Netflix originals and more. Watch as<br>
+            much as you want, anytime you want.</p>
+        <button class="joinnow">Joinnow</button>
+    </div>
+    <!-- footer -->
+    <footer>
+        <a href="" class="para">Read about Netflix TV shows and movies and watch bonus videos on Tudum.com.</a><br>
+        <h4>Questions? Contact us.</h4>
+        <div class="col">
+            <a href="https://help.netflix.com/en/node/412">FAQ</a>
+            <a href="https://ir.netflix.net/ir-overview/profile/default.aspx">Investor Relations</a>
+            <a href="https://help.netflix.com/legal/privacy">Privacy</a>
+            <a href="https://fast.com/">Speed Test</a>
+        </div>
+        <div class="col">
+            <a href="https://help.netflix.com/en">Help Centre</a>
+            <a href="https://jobs.netflix.com/">Jobs</a>
+            <a href="">Cookie Preferences</a>
+            <a href="https://help.netflix.com/legal/notices">Legal Notices</a>
+        </div>
+        <div class="col">
+            <a href="https://www.netflix.com/in/login?nextpage=https%3A%2F%2Fwww.netflix.com%2Fyouraccount">Account</a>
+            <a href="https://help.netflix.com/en/node/14361">Ways to Watch</a>
+            <a href="https://help.netflix.com/en/node/134094">Corporate Information</a>
+            <a href="https://www.netflix.com/in/browse/genre/839338">Only on Netflix</a>
+        </div>
+        <div class="col">
+            <a href="https://media.netflix.com/en/">Media Centre</a>
+            <a href="https://help.netflix.com/legal/termsofuse">Terms of Use</a>
+            <a href="https://help.netflix.com/en/contactus">Contact Us</a>
+        </div>
+        <div>
+         <button class="English">English</button>
+         </div>
+    </footer>
+</body>
+</html>
